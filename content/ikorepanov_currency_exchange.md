@@ -1,4 +1,4 @@
-## Ревью на проект [currency-exchange] (https://github.com/ikorepanov/currency-exchange)
+## Ревью на проект [currency-exchange](https://github.com/ikorepanov/currency-exchange)
 
 
 ### Плюсы
